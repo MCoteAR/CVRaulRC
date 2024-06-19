@@ -43,6 +43,10 @@ body {
 .icono i {
     font-size: 4rem;    }
 
+    i:hover {
+        color: aqua;
+    }
+
 .icono p {
     margin-top: 10px; 
 }
